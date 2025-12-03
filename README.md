@@ -10,16 +10,16 @@ You can re-run the data parsing with any of the files in the main project folder
 You can then run in the trends folder some of the python files to get specific trend data. This will be a faster analysis than re-getting the data from lichess described above. 
 You can view the data I received with my main-folder .txt files or in the popularities folder for my trend data. 
 
-# Questions for analysis:
+# Primary project analysis questions:
 
-## Are certain openings more popular at different rating levels? 
+Are certain openings more popular at different rating levels? 
 
-## Are some openings gaining or losing popularity?
+Are some openings gaining or losing popularity?
 
-## Are any time controls gaining or losing popularity? 
+Are any time controls gaining or losing popularity? 
 
-## Does playing with white or black matter more at different rating levels? Has this changed over time?
+Does playing with white or black matter more at different rating levels? Has this changed over time?
 
-## What is the average rating difference for the winning side? 
+What is the average rating difference for the winning side? 
 
 
